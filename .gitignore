@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.streamlit/
+*.log
+moveinsync_reviews_analysis_2026*.xlsx
